@@ -1,0 +1,3 @@
+# ArMeasureDemo
+ARKit demo application.
+Place virtual objects into 3D space and calculate distance between objects
