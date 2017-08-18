@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CE01397A1F463EBB007116E7 /* SphereNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE0139791F463EBB007116E7 /* SphereNode.swift */; };
 		CE5D2B781F460BE6000BA80E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE5D2B771F460BE6000BA80E /* AppDelegate.swift */; };
 		CE5D2B7A1F460BE6000BA80E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE5D2B791F460BE6000BA80E /* ViewController.swift */; };
 		CE5D2B7D1F460BE6000BA80E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE5D2B7B1F460BE6000BA80E /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		CE0139791F463EBB007116E7 /* SphereNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SphereNode.swift; sourceTree = "<group>"; };
 		CE5D2B741F460BE6000BA80E /* ArMeasureDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ArMeasureDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE5D2B771F460BE6000BA80E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CE5D2B791F460BE6000BA80E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -54,8 +56,9 @@
 		CE5D2B761F460BE6000BA80E /* ArMeasureDemo */ = {
 			isa = PBXGroup;
 			children = (
-				CE5D2B771F460BE6000BA80E /* AppDelegate.swift */,
+				CE0139791F463EBB007116E7 /* SphereNode.swift */,
 				CE5D2B791F460BE6000BA80E /* ViewController.swift */,
+				CE5D2B771F460BE6000BA80E /* AppDelegate.swift */,
 				CE5D2B7B1F460BE6000BA80E /* Main.storyboard */,
 				CE5D2B7E1F460BE6000BA80E /* Assets.xcassets */,
 				CE5D2B801F460BE6000BA80E /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			files = (
 				CE5D2B7A1F460BE6000BA80E /* ViewController.swift in Sources */,
 				CE5D2B781F460BE6000BA80E /* AppDelegate.swift in Sources */,
+				CE01397A1F463EBB007116E7 /* SphereNode.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
