@@ -17,6 +17,7 @@ class ViewController: UIViewController, ARSCNViewDelegate {
         let view = ARSCNView(frame: CGRect.zero)
         view.delegate = self
         view.autoenablesDefaultLighting = true
+        view.antialiasingMode = SCNAntialiasingMode.multisampling4X
         return view
     }()
     
