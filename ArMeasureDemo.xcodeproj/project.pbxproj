@@ -17,6 +17,7 @@
 
 /* Begin PBXFileReference section */
 		CE0139791F463EBB007116E7 /* SphereNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SphereNode.swift; sourceTree = "<group>"; };
+		CE01397B1F4741FA007116E7 /* ArKitDemo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ArKitDemo.png; sourceTree = "<group>"; };
 		CE5D2B741F460BE6000BA80E /* ArMeasureDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ArMeasureDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE5D2B771F460BE6000BA80E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CE5D2B791F460BE6000BA80E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -62,6 +63,7 @@
 				CE5D2B7B1F460BE6000BA80E /* Main.storyboard */,
 				CE5D2B7E1F460BE6000BA80E /* Assets.xcassets */,
 				CE5D2B801F460BE6000BA80E /* LaunchScreen.storyboard */,
+				CE01397B1F4741FA007116E7 /* ArKitDemo.png */,
 				CE5D2B831F460BE6000BA80E /* Info.plist */,
 			);
 			path = ArMeasureDemo;
